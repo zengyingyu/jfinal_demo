@@ -1,0 +1,28 @@
+{
+    "data": [
+        [
+            "<input type='checkbox' name='id' class='checkboxes' value='1'>",
+            1,
+            "12/09/2013",
+            "JhonDoe",
+            "JhonDoe",
+            "450.60$",
+            2,
+            "b",
+            "c"
+        ],
+        [
+            "<input type='checkbox' name='id' class='checkboxes' value='2'>",
+            2,
+            "12/09/2013",
+            "JhonDoe",
+            "JhonDoe",
+            "450.60$",
+            2,
+            "b",
+            "c"
+        ]
+    ],
+    "recordsTotal": 178,
+    "recordsFiltered": 178
+}

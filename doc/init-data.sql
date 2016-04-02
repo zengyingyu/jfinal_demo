@@ -1,0 +1,1 @@
+INSERT INTO `ttpm`.`ttpm_user` (`username`, `pwd`, `email`, `telephone`, `insertDate`, `insertUserId`, `updateDate`, `updateUserId`) VALUES ('admin', 'admin', 'admin@ttpm.com', '12345678', '2016-03-26 13:53:20', 'admin', '2016-03-26 13:53:28', 'admin');

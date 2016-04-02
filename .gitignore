@@ -1,0 +1,5 @@
+/.settings/*
+/.classpath
+/.project
+/jfinal_demo.log
+/.settings/
